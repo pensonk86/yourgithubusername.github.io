@@ -8,7 +8,18 @@ p{
 
     color: black;
 }
+h2{
+    font:bold italic 5em verdana;
+    border-bottom:2.5px solid black;
+    font-size:1em
+    
+}
+h1{
 
+    font:bold italic 5em verdana;
+    font-size:2em
+
+}
 
 
 
